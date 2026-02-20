@@ -15,5 +15,10 @@ To replicate the Linux behavior with a safety command, and it more likely to be 
 5. Type: cd ~/storage/emulated/0/[Where you unzip it]/easyCLI
 6. Type: python main.py
 
+NOTE: If you on Termux and don't have any Python interpreter installed, you can install it first:
+``pkg install python``
+or latest version:
+``pkg install python3``
+
 # Any Bugs
 If any bug occurred, you can comment down below
