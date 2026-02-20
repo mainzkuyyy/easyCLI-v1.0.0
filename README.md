@@ -21,4 +21,4 @@ or latest version:
 ``pkg install python3``
 
 # Any Bugs
-If any bug occurred, you can comment down below
+If any bug occurred, you can contact me via my website portfolio: www.mainzkuyyy.vercel.app
