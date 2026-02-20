@@ -1,2 +1,19 @@
-# easyCLI-v1.0.0
-Aarch64 Linux Simulator for Mobile
+# Repo Description
+Filename: easyCLI
+Version: 1.0.0
+Creator: MainzKuyyy
+Description: Aarch64 Linux Simulator for Mobile
+
+# Usage
+To replicate the Linux behavior with a safety command, and it more likely to be used as the second emulator
+
+# To Install
+1. Just download this file (.zip)
+2. Unzip it
+3. Open Termux / Pydroid
+4. Open Terminal (Pydroid)
+5. Type: cd ~/storage/emulated/0/[Where you unzip it]/easyCLI
+6. Type: python main.py
+
+# Any Bugs
+If any bug occurred, you can comment down below
