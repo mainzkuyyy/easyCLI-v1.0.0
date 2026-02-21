@@ -47,7 +47,7 @@ To replicate the Linux behavior
 
 
 # Install Tutorial / Cara Install 🔽
-`
+```
 pkg install git (if you dont have one / kalau belum punya)
 pkg install python (if you dont have one / kalau belum punya)
 git clone https://github.com/mainzkuyyy/easyCLI-v1.0.0
@@ -55,7 +55,7 @@ cd easyCLI-v1.0.0
 unzip easyCLI
 cd easyCLI
 python main.py
-`
+```
 
 # Note 📝
 Ini masih 1.0.0, belum ada system
