@@ -62,8 +62,10 @@ __In Pydroid:__
 
 ## Note 📝
 This is the first version of the easyCLI, theres no command in order:
-- pkg
-- apt
-- nano
+- `pkg`
+- `apt`
+- `nano`
 
 In upcoming day, i will add into it. Just _stay up tune_
+
+### © MainzKuyyy 2026
