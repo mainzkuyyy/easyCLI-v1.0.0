@@ -15,11 +15,11 @@ easyCLI
 
 | command -> command folder/folder perintah
 
-| | __init__.py
+| | ____init____.py
 
 | | filesystem
 
-| | | __init__.py
+| | | ____init____.py
 
 | | | system.py
 
