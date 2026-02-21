@@ -52,7 +52,7 @@ pkg install git (if you dont have one / kalau belum punya)
 pkg install python (if you dont have one / kalau belum punya)
 git clone https://github.com/mainzkuyyy/easyCLI-v1.0.0
 cd easyCLI-v1.0.0
-unzip easyCLI
+unzip easyCLI.zip
 cd easyCLI
 python main.py
 ```
