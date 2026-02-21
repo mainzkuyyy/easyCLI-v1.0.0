@@ -28,7 +28,7 @@ easyCLI
 To replicate the Linux behavior
 (untuk mereplika kelakuan Linux)
 
-# Command available / Perintah yang berlaku
+# Command available / Perintah yang berlaku 💬
 • touch
 
 • mkdir
