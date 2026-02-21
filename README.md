@@ -1,8 +1,8 @@
 # easyCLI v1.0.0 📜
 
-# Version: 1.0.0
-# Creator: MainzKuyyy
-# Description: Aarch64 Linux Simulator for Mobile
+Version: 1.0.0
+Creator: MainzKuyyy
+Description: Aarch64 Linux Simulator for Mobile
 
 # File Directory / Direktori 📂
 easyCLI
