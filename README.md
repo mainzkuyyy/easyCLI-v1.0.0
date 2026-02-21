@@ -34,10 +34,9 @@ __Context__:
 | Command | Description         |
 |---------|---------------------|
 |`mkdir`  |Creates folder       |
-|         |in sandbox folder/   |
-|         |current directory    |
-|---------|---------------------|
 |`touch`  |Creates file         |
-|         |in sandbox folder/   |
-|         |current directory    |
-|---------|---------------------|
+|`mv`     |Moving file          |
+|`cd`     |Move to specific directory|
+|`rm`     |Removes file/folder  |
+|`ls`     |Checks all the directory|
+|`cp`     |Checks current directory|
