@@ -8,6 +8,7 @@ Description: Aarch64 Linux Simulator for Mobile
 
 # File Directory / Direktori 📂
 easyCLI
+
 | main.py -> os displayer/penampil os
 
 | sandbox -> sandbox folder
